@@ -1,0 +1,26 @@
+{
+  "name": "golden-triangles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheophileMot/golden-triangles.git"
+  },
+  "keywords": [
+    "golden",
+    "ratio",
+    "triangles"
+  ],
+  "author": "Timothy Mott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheophileMot/golden-triangles/issues"
+  },
+  "homepage": "https://github.com/TheophileMot/golden-triangles#readme"
+}
